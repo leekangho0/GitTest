@@ -459,4 +459,14 @@ let people: [SelfIntroduction] = [
         etc: "열심히 수료하고 취업하겠습니다!",
         job: "넥슨 메이플 - iOS 개발자"
     ),
+    SelfIntroduction(
+        name: "최혜진",
+        trainingPurpose: "열심시",
+        hobby: "여행, 독서 등",
+        mbti: "ISFP",
+        strength: "실행력",
+        sns: nil,
+        etc: "취업하겠습니다!",
+        job: "어딘가"
+    ),
 ]
