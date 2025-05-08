@@ -465,6 +465,7 @@ let people: [SelfIntroduction] = [
         hobby: "여행 등",
         mbti: "ISFP",
         strength: "실행력",
+        strength: "열심히하기",
         sns: nil,
         etc: "취업하겠습니다!",
         job: "좋은곳"
