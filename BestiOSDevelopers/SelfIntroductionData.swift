@@ -296,7 +296,7 @@ let people: [SelfIntroduction] = [
         mbti: "INTJ",
         strength: "iOS 좋아함",
         sns: nil,
-        etc: "아 부트캠프 쉽지 않네요",
+        etc: "아 부트캠프 쉽지 않네용",
         job: "100수"
     ),
     SelfIntroduction(
