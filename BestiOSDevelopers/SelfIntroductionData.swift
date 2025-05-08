@@ -464,8 +464,7 @@ let people: [SelfIntroduction] = [
         trainingPurpose: "열심히하기",
         hobby: "여행 등",
         mbti: "ISFP",
-        strength: "실행력",
-        strength: "열심히하기",
+        strength: "열심히하기222",
         sns: nil,
         etc: "취업하겠습니다!",
         job: "좋은곳"
