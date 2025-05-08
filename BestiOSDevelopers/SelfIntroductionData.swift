@@ -432,12 +432,12 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "이치훈",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "가드닝, 유튜브시청, 독서222",
+        hobby: "가드닝, 유튜브시청, 독서 (수정됨)",
         mbti: "INTJ",
-        strength: "끈기와 추리력",
+        strength: "끈기와 추리력(수정됨)",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!",
-        job: "그냥 iOS 개발자"
+        etc: "열심히 수료하고 취업하겠습니다!(수정됨)",
+        job: "그냥 iOS 개발자(수정됨)"
     ),
     SelfIntroduction(
         name: "신유섭",
