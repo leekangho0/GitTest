@@ -461,12 +461,12 @@ let people: [SelfIntroduction] = [
     ),
     SelfIntroduction(
         name: "최혜진",
-        trainingPurpose: "열심시",
-        hobby: "여행, 독서 등",
+        trainingPurpose: "열심히하기",
+        hobby: "여행 등",
         mbti: "ISFP",
         strength: "실행력",
         sns: nil,
         etc: "취업하겠습니다!",
-        job: "어딘가"
+        job: "좋은곳"
     ),
 ]
